@@ -1,2 +1,3 @@
 # Color-detection
-Using colours from an image to carry out classification
+This project checks the color of an eye image and classifies it.
+It uses python, sklearn, openCv
